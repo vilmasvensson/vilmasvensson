@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Hi there!
 
-<!--
-**vilmasvensson/vilmasvensson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vilma Svensson, a computer science student from Sweden looking to contribute to the FLOSS community. I have a background in graphic design and web development, but looking to expand my skillset. I 💕 Fedora and GUH-NOME.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤓 About me:
+
+- 💾 Distro: `Fedora Silverblue`
+- 🖥️ DE: `GNOME`
+- 😄 Pronouns: She/Her
+- ⚡ Interests: Programming, design, ~~coffee~~.
+- 🌱 I’m currently learning Rust and GTK.
+- 📫 You can reach me at contact@vilmasvensson.com
